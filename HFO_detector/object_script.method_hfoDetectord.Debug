@@ -1,0 +1,12 @@
+INPUT(
+./debug/hfoDetector.o
+./debug/methodResult.o
+./debug/resultElement.o
+./debug/FIRfilter.o
+./debug/writeMarkersText.o
+./debug/moc_hfoDetector.o
+./debug/moc_methodResult.o
+./debug/moc_resultElement.o
+./debug/moc_FIRfilter.o
+./debug/moc_writeMarkersText.o
+);

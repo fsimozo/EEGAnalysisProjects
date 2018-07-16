@@ -1,0 +1,12 @@
+INPUT(
+./release/hfoDetector.o
+./release/methodResult.o
+./release/resultElement.o
+./release/FIRfilter.o
+./release/writeMarkersText.o
+./release/moc_hfoDetector.o
+./release/moc_methodResult.o
+./release/moc_resultElement.o
+./release/moc_FIRfilter.o
+./release/moc_writeMarkersText.o
+);
