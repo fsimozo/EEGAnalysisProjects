@@ -1,0 +1,16 @@
+INPUT(
+./debug/dfa_plugin.o
+./debug/simulatedHfoGenerator.o
+./debug/dfaAnalysis.o
+./debug/methodResult.o
+./debug/resultElement.o
+./debug/FIRfilter.o
+./debug/writeMarkersText.o
+./debug/moc_dfa_plugin.o
+./debug/moc_simulatedHfoGenerator.o
+./debug/moc_dfaAnalysis.o
+./debug/moc_methodResult.o
+./debug/moc_resultElement.o
+./debug/moc_FIRfilter.o
+./debug/moc_writeMarkersText.o
+);

@@ -1,0 +1,16 @@
+INPUT(
+./release/dfa_plugin.o
+./release/simulatedHfoGenerator.o
+./release/dfaAnalysis.o
+./release/methodResult.o
+./release/resultElement.o
+./release/FIRfilter.o
+./release/writeMarkersText.o
+./release/moc_dfa_plugin.o
+./release/moc_simulatedHfoGenerator.o
+./release/moc_dfaAnalysis.o
+./release/moc_methodResult.o
+./release/moc_resultElement.o
+./release/moc_FIRfilter.o
+./release/moc_writeMarkersText.o
+);
