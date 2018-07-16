@@ -1,0 +1,12 @@
+INPUT(
+./build/Debug/MinGW_Qt-Windows/FIR_filtering.o
+./build/Debug/MinGW_Qt-Windows/FIR_test.o
+./build/Debug/MinGW_Qt-Windows/HFO_detector.o
+./build/Debug/MinGW_Qt-Windows/HFO_detector1.o
+./build/Debug/MinGW_Qt-Windows/mirroring.o
+./build/Debug/MinGW_Qt-Windows/moc_FIR_filtering.o
+./build/Debug/MinGW_Qt-Windows/moc_FIR_test.o
+./build/Debug/MinGW_Qt-Windows/moc_HFO_detector.o
+./build/Debug/MinGW_Qt-Windows/moc_HFO_detector1.o
+./build/Debug/MinGW_Qt-Windows/moc_mirroring.o
+);
